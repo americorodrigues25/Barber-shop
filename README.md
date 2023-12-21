@@ -4,6 +4,7 @@ Criei este modelo de landpage para uma barbearia, é uma pagina simples mas com 
 ![img-do-site](https://github.com/americorodrigues25/Barber-shop/assets/152452192/cd6548f8-26e7-4cd4-a539-14231191085e)
 
 ## Visualize o site através da url: 
+barber-shop-americo.vercel.app
 
 ## Aprendizados: 📚
 Aprendi sobre uma extensão do CSS chamada "Sassy CSS" que podemos adicionar funcionalidades extras e possui uma sintaxe mais flexível para facilitar a escrita de estilos complexos e mantê-los mais organizados. Essa extensão oferece recursos adicionais como variáveis, alinhamento de seletores, mixins (fragmentos de código reutilizáveis), entre outros, tornando o processo de escrita e manutenção de estilos mais eficiente. Devemos instalar uma extensão no VSCode chamada Live Sass Compiler, para que os códigos do SCSS ao final, seja convertido para CSS puro para ser interpretado pelos navegadores web.
